@@ -32,7 +32,7 @@ So, in short, I enjoy (and, I guess, this is what I am "expert" in) tackling com
 
 <details>
   <summary><i>
-Nice, but in practice?
+Nice, but then what are your technical skills?
   </i></summary>
 Well, I am very fond of R and Julia – my main weapons of choice for problem-solving. R for statistical analysis, Julia for, well, anything else. I am purposely not an expert of Python; I find its syntax confusing and its capabilities lacking compared to the aforementioned tools. The same holds true regarding Microsoft Excel – the morgue of every real statistician. However, given the industry's demands, I have begrudgingly lowered my ideals and, with a leap of bravery, learned a bit of them too. <br>
 Moving to old-school stuff, I have expertise in C, C++, and Matlab – languages we studied and employed extensively at university. I also enjoy playing with Bash scripts since I am confident with Linux-based operating systems, along with the traditional Windows ones. <br>
@@ -67,7 +67,7 @@ Per riassumere, mi piace (e, a questo punto, credo che sia ciò in cui sono "esp
 
 <details>
   <summary><i>
-Bello, ma in pratica?
+Bello, ma quindi quali sono le tue competenze tecniche?
 </i></summary>
 Beh, sono molto affezionato a R e Julia – le mie principali armi del mio arsenale per il problem-solving. R per l'analisi statistica, Julia per, beh, qualsiasi altra cosa. Di proposito non sono un esperto di Python; trovo la sua sintassi confusa e le sue capacità carenti rispetto agli strumenti di cui sopra. Lo stesso vale per Microsoft Excel - il mortorio di ogni vero statistico. Tuttavia, date le richieste del settore, ho rabbonito i miei ideali e, con un balzo coraggioso, ho imparato un po' anche loro. <br>
 Passando alla vecchia scuola, ho esperienza in C, C++, e Matlab – linguaggi che abbiamo studiato e impiegato ampiamente all'università. Mi piace anche giocare con gli script Bash, dato che mi destreggio tra sistemi operativi basati su Linux, insieme comunque a quelli tradizionali di Windows. <br>
