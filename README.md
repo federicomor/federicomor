@@ -47,7 +47,7 @@ Perfect! How could we keep in touch?
 You can find everything on Linkedin: https://www.linkedin.com/in/federico-angelo-mor/
 </details>
 
-# <img src="https://flagcdn.com/it.svg" width="5%" alt="United Kingdom"> Italian version
+# <img src="https://flagcdn.com/it.svg" width="5%" alt="Italia"> Italian version
 Ciao! Sono un laureato magistrale in Ingegneria Matematica al Politecnico di Milano. 
 
 <details>
