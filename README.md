@@ -12,8 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img src="https://flagcdn.com/gb.svg" width="3%" alt="United Kingdom"> __Hello there!__\
+<!--
+<img src="https://flagcdn.com/gb.svg" width="3%" alt="United Kingdom">
+-->
+🇬🇧 __Hello there!__\
 I am a MSc graduate in Mathematical Engineering at Politecnico of Milan. 
 
 <details>
@@ -46,7 +48,10 @@ Perfect! How could we keep in touch?
 You can find everything on Linkedin: https://www.linkedin.com/in/federico-angelo-mor/
 </details>
 
-<img src="https://flagcdn.com/it.svg" width="3%" alt="Italia"> __Ciao!__\
+<!--
+<img src="https://flagcdn.com/it.svg" width="3%" alt="Italia">
+-->
+🇮🇹 __Ciao!__\
 Sono un laureato magistrale in Ingegneria Matematica al Politecnico di Milano. 
 
 <details>
