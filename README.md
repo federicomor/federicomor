@@ -27,18 +27,19 @@ For me, it was the perfect balance between studying complex and pure mathematica
   <summary><i>
    Ok, that sounds fancy, I guess... but what are you actually expert in?
   </i></summary>
-Well, as I said, I enjoyed studying complex topics of advanced mathematics, but what I especially loved was exploring how to turn them into real-world applications through computational means. For example, in Optimization, we learned how to translate a problem into a mathematical formulation and then solve real instances of that problem by writing some kind of computer program. In Stochastic Dynamical Models, we studied how Markov Chains could help to model real-world scenarios, like customers flow into a shop or the spread of an infectious disease, allowing us to analyse such contexts through mathematical lenses – or, you know, by just coding another simple program.  <br>
-And finally, in my thesis, I worked on refining the theoretical formulation of a Bayesian clustering model for spatio-temporal data, incorporating covariates information and handling the presence of missing data, as well as rewriting more efficiently the MCMC sampling algorithm of the model. Simply put: a model that is more flexible, and execution times almost halved compared to the original implementation. <br>
-So, in short, I enjoy (and, I guess, this is what I am "expert" in) tackling complex problems through a mathematical approach, followed by a real implementation of the solution through some coding. 
+Well, as I said, I enjoyed studying complex topics of advanced mathematics, but what I especially loved was exploring how to turn them into real-world applications through computational means. Let's do some examples. 
+In Optimization we learned how to model a problem with an appropriate mathematical formulation and then saw how to solve real instances of that problem by writing some kind of computer program. In Stochastic Dynamical Models, we studied how Markov Chains could help to model real-world scenarios, like customers flow into a shop or the spread of an infectious disease, allowing us to analyse such contexts through mathematical lenses which could then be easily casted to computational representations
+Finally, in my thesis, I worked on refining the theoretical formulation of a Bayesian clustering model for spatio-temporal data, incorporating covariates information and handling the presence of missing data, as well as rewriting more efficiently the MCMC sampling algorithm of the model. Simply put: a model that is more flexible, and execution times almost halved compared to the original implementation. <br>
+So, in short, I enjoy (and at this point, I guess, this is what I am "expert" in) tackling complex problems through a mathematical approach, followed by a real implementation of the solution through some kind of coding. 
 </details>
 
 <details>
   <summary><i>
 Nice, but then what are your technical skills?
   </i></summary>
-I am very fond of R and Julia – my main weapons of choice for problem-solving. R for statistical analysis, Julia for, well, anything else. I am purposely not an expert of Python; I find its syntax confusing and its capabilities lacking compared to the aforementioned tools. The same holds true regarding Microsoft Excel – the morgue of every real statistician. However, given the industry's demands, I have begrudgingly lowered my ideals and, with a leap of bravery, learned a bit of them too. <br>
-Moving to old-school stuff, I have expertise in C, C++, and Matlab – languages we studied and employed extensively at university. I also enjoy playing with Bash scripts since I am confident with Linux-based operating systems, along with the traditional Windows ones. <br>
-As for writing, I fell in love with LaTeX at first sight – nothing beats its typographical perfection. Moreover, the idea of coding and receiving as output a pdf never ceases to amaze me.
+I am very fond of R and Julia – my main weapons of choice for problem-solving. R for statistical analysis, Julia for anything else. I am purposely not an expert of Python; I find its syntax confusing and its capabilities lacking compared to the aforementioned tools. The same holds true regarding Microsoft Excel – the morgue of every real statistician. However, given the industry's demands, I have begrudgingly lowered my ideals and, with a leap of bravery, learned a bit of them too. <br>
+Moving to old-school stuff, I have expertise in C, C++, and Matlab – languages we studied and employed extensively at university. I also enjoy playing with Bash scripts since I swing willingly betwenn Linux and Windows. <br>
+As for writing, with LaTeX it was love at first sight: nothing beats its typographical perfection. Moreover, the idea of coding and receiving as output a pdf never ceases to amaze me.
 </details>
 
 <details>
@@ -65,18 +66,19 @@ Per me, ha rappresentato il perfetto equilibrio tra lo studio di argomenti compl
   <summary><i>
 Ok, suona intrigante, credo... ma quindi in cosa saresti esperto?
   </i></summary>
-Beh, come ho detto, mi è piaciuto studiare argomenti complessi di matematica avanzata, ma quello che ho amato in particolare era esplorare la loro conversione in applicazioni del mondo reale attraverso metodi e strumenti informatici, computazionali. Per esempio, in Ottimizzazione, abbiamo imparato come tradurre un problema in una formulazione matematica e poi risolvere istanze reali di quel problema scrivendo qualche tipo di programma da eseguire al computer. In Modelli Stocastici Dinamici, abbiamo studiato come le Catena di Markov possano aiutare a modellare scenari reali, come il flusso di clienti in un negozio o la diffusione di una malattia infettiva, permettendoci di analizzare tali contesti attraverso lenti matematiche - o, beh, semplicemente scrivendo un altro piccolo programmino. <br>
-Infine, nella mia tesi, ho lavorato a perfezionare la formulazione teorica di un modello bayesiano per il clustering di dati spazio-temporali, incorporando l'informazione delle covariate e gestendo la presenza di dati mancanti, nonché riscrivendo in modo più efficiente l'algoritmo di campionamento del modello. In parole povere: un modello più flessibile, e tempi di esecuzione quasi dimezzati rispetto all'implementazione originale. <br>
-Per riassumere, mi piace (e, a questo punto, credo che sia ciò in cui sono "esperto") affrontare problemi complessi con un approccio matematico, seguito da un'implementazione della soluzione tramite programmazione. 
+Beh, come detto, mi è piaciuto studiare argomenti complessi di matematica avanzata, ma quello che ho amato in particolare è stato esplorare la loro conversione in applicazioni pratiche attraverso metodi e strumenti informatici, computazionali. Facciamo qualche esempio. 
+  In Ottimizzazione abbiamo imparato come modellare un problema con una formulazione matematica e poi come risolvere istanze reali del problema stesso tramite qualche tipo di programma eseguibile da un computer. In Modelli Stocastici Dinamici abbiamo studiato come le Catena di Markov possano modellare scenari reali quali il flusso di clienti in un negozio. o la diffusione di una malattia infettiva, permettendoci di analizzare tali contesti attraverso lenti matematiche che potessero poi essere naturalmeente convertite in codice per trattare e simulare esempi reali.
+Infine, nella mia tesi, ho lavorato a perfezionare la formulazione teorica di un modello bayesiano per il clustering di dati spazio-temporali aumentandone la flessibilità, tramite l'inclusione dell'informazione delle covariate e la gestione dei dati mancanti, e riscrivendo in modo più efficiente l'algoritmo di campionamento del modello garanetendo quindi  esecuzioni molto più veloci. Nel farlo ho usato Julia, che ha addirittura battuto l'originale implementazione in C!<br>
+Per riassumere, mi piace (e, a questo punto, credo che sia ciò in cui sono "esperto") affrontare problemi complessi con un approccio matematico, seguito da un'implementazione della soluzione tramite programmazione in un qualche linguaggio. 
 </details>
 
 <details>
   <summary><i>
 Bello, ma quindi quali sono le tue competenze tecniche?
 </i></summary>
-Sono molto affezionato a R e Julia – le mie principali armi del mio arsenale per il problem-solving. R per l'analisi statistica, Julia per, beh, qualsiasi altra cosa. Volontariamente non sono un esperto di Python; trovo la sua sintassi confusa e le sue capacità carenti rispetto agli strumenti di cui sopra. Lo stesso vale per Microsoft Excel - il mortorio di ogni vero statistico. Tuttavia, date le richieste del settore, ho rabbonito i miei ideali e, con un balzo coraggioso, ho imparato un po' anche loro. <br>
-Passando alla vecchia scuola, ho esperienza in C, C++, e Matlab – linguaggi che abbiamo studiato e impiegato ampiamente in università. Mi piace anche giocare con gli script Bash, dato che mi destreggio tra sistemi operativi basati su Linux oltre a quelli tradizionali con Windows. <br>
-Per quanto riguarda la scrittura, con LaTeX è stato amore a prima vista – niente batte la sua perfezione tipografica. Inoltre programmare ed avere come output un pdf è una cosa che non smette mai di stupirmi.
+Sono molto affezionato a R e Julia – le principali armi del mio arsenale per il problem-solving. R per l'analisi statistica, Julia per qualsiasi altra cosa. Volontariamente non sono un esperto di Python; trovo la sua sintassi confusa e le sue capacità carenti rispetto agli strumenti di cui sopra. Lo stesso vale per Microsoft Excel - il mortorio di ogni vero statistico. Tuttavia, date le richieste del settore, ho rabbonito i miei ideali e, con un balzo coraggioso, ho imparato un po' anche di loro. <br>
+Passando alla vecchia scuola, ho esperienza in C, C++, e Matlab – linguaggi che abbiamo studiato e impiegato ampiamente in università. Mi piace anche giocare con gli script Bash, dato che oscillo volentieri tra Linux e Windows. <br>
+Per quanto riguarda la scrittura, con LaTeX è stato amore a prima vista: niente batte la sua perfezione tipografica. Inoltre programmare ed avere come output un pdf è una cosa che non smette mai di stupirmi.
 </details>
 
 <details>
